@@ -1,0 +1,25 @@
+.rotated-text {
+  /*writing-mode: vertical-rl; /* Cambia la orientación del texto a vertical */
+  /*text-orientation: upright; /* Asegura que el texto se mantenga en posición vertical */
+  /*transform-origin: left top; /* Ajusta el punto de origen de la rotación */
+  transform: rotate(-90deg); /* Gira el texto 90 grados a la izquierda */
+  /*position: relative;*/
+}
+
+
+.styled-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.styled-table th, .styled-table td {
+  padding: 12px;
+  border: 1px solid #8f0000;
+  text-align: left;
+}
+
+.styled-table thead {
+}
+
+.styled-table tbody tr:nth-child(even) {
+}

@@ -1,0 +1,193 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Lora", serif;
+    width: 100%;
+    height: 100%;
+    background-color: #0e1c2c;
+  }
+  
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0e1c2c;
+    width: 100%;
+    height: 5rem;
+    
+  }
+  
+  .titulo {
+    font-size: 2.4em;
+    color: white;
+    padding-left: 2rem;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .inBarMenu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    color: white;
+    padding-right: 1rem;
+    height: 100%;
+  }
+  
+  .inBarMenu a:hover {
+    background-color: #fafcff;
+    color: #0e1c2c;
+  }
+  
+  .inBarMenu li {
+    display: flex;
+    position: relative;
+    align-items: center;
+    height: 100%;
+    width: auto;
+  }
+  
+  .inBarLi {
+    display: flex;
+    align-items: center;
+    font-size: 1em;
+    height: 100%;
+    width: 100%;
+    color: white;
+    text-decoration: none;
+    padding: 0 0.8rem;
+  }
+  
+  .inBarSubm {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    list-style: none;
+    width: 100%;
+    top: 100%;
+    right: 0;
+    padding: 0 0;
+    background-color: #0e1c2c;
+  }
+  
+  .inSubmLi{
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+    color: white;
+    width: 100%;
+    height: 100%;
+    padding: 1rem 0;
+  }
+  
+  .inBarMenu li:hover .inBarSubm {
+    display: block;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .tycont {
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    padding: rem;
+    width: 100%;
+    background-color: #3d5979;
+  }
+
+  .tytitulo {
+    font-size: 3em;
+    text-align: center;
+    color: white;
+  }
+
+  .formular {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    padding-top: 2rem;
+    width: 100%;
+    height: 26vh;
+    background-color: white;
+  }
+
+  .formtext {
+    display: flex;
+    width: 90%;
+    height: auto;
+    text-align:center;
+    font-size: 1.4em;
+  }
+
+  .butontext{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 2rem;
+    background-color: #0e1c2c;
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+
+  .txtitulo1 {
+    justify-content: center;
+    text-align: center;
+    font-size: 2.2srem;
+  }
+
+  .textcont {
+    align-items: center;
+    align-content: center;
+    justify-content: left;
+    justify-items: left;
+    padding-top: 2rem;
+    width: 100%;
+    background-color: white;
+  }
+
+  .txtitulo {
+    padding-left: 4rem;
+    text-align: left;
+  }
+
+  .textext {
+    padding-left: 3em;
+    padding-right: 3em;
+    font-size: 1.4em;
+  }
+  
+  footer {
+    background-color: #0e1c2c;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 10rem;
+  }
+  
+  .email {
+    align-items: center;
+    align-content: center;
+  font-size: 1.5rem;
+  }
