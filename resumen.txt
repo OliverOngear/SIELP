@@ -17,17 +17,22 @@ E1: Una persona con este nivel es capaz de crear programas complejos con buen ni
 E2: Una persona con este nivel es capaz de crear programas complejos con buen nivel de modularidad y multi-funcionalidad sin problema, además crear solucones que busquen la optimizacion del uso de la memoria y la velocidad de ejecución.
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Estas son las descripciones generales por niveles para la sección "Sintaxis", crea las descripciones de sintaxis para conocimientos específicos del lenguaje "Python", recuerda que el SIELP basa en conocimientos del lenguaje y no en habilidades de programación:
 
-S1: Entiende, reconoce y diferencia un conjunto limitado y de uso común de palabras reservadas dentro del lenguaje de programación.
-S2: Entiende, reconoce y diferencia un conjunto básico y común de palabras reservadas dentro del lenguaje de programación.
-I1: Posee un cocimiento extenso de la sintaxis del lenguaje ademas de que es capaz de reconocerlo y diferenciar la sintaxis de este de la sintaxis de otros lenguajes de programación.
-I2: Lee, comprende e identifica patrones básicos de diseño, nomenclatura, estilo de código, regularización, el uso de códigos re-utilizables en su propio código o en el de alguien mas.
-E1: Lee, comprende e identifica patrones de diseño, nomenclatura, estilo de código, regularización, el uso de códigos re-utilizables en su propio código o en el de alguien mas, ademas de encontrar soluciones y mejoras a estos sin problema.
-E2: Lee, comprende e identifica patrones de diseño, nomenclatura, estilo de código, regularización, el uso de códigos re-utilizables en su propio código o en el de alguien mas, ademas de encontrar soluciones y mejoras a estos sin problema.
+Estas son las descripciones generales de cada nivel para la sección "sintaxis", corrige tu resultado anterior analizando estas, pero no solo adaptes el texto, piensa de forma creativa como se adaptarían los conocimientos de Python a cada, nivel siguiendo la descripción:
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Crea las descripciones de sintaxis para conocimientos específicos del lenguaje "Python", recuerda que el SIELP basa en conocimientos del lenguaje y no en habilidades de programación:
 
-esta es la descripcion de conocimientos en sintaxis que debe tener una perosna de nivel S1: Entiende, reconoce un conjunto pequeño de palabras reservadas de JavaScript [let, var, if, else, while, do, switch, for, case, break, etc.]
+S1: Comprende y reconoce un conjunto limitado de palabras reservadas y su uso básico en el lenguaje de programación, siendo capaz de escribir e identificar instrucciones y estructuras simples en ejemplos de código.
 
-esta es la descripcion de conocimientos en sintaxis que debe tener una perosna de nivel S2: Entiende y reconoce un conjunto amplio de palabras reservadas dentro del lenguaje de programación [const, function, return, try, catch, finally, throw, typeof, new, delete, this, in, void, class, with]
+S2:Comprende y reconoce un conjunto básico de palabras reservadas, además de comprender cómo se combinan para formar estructuras de control y funciones simples.
+
+I1:Es capaz de implementar correctamente estructuras sintácticas más complejas como bucles anidados, condicionales avanzados, mapas, funciones, librerías, manejo de parámetros, retorno de valores. etc. Organiza su código de manera modular siguiendo convenciones de código.
+
+I2:Lee y comprende código más complejo reconociendo patrones de diseño, convenciones de estilo y estructuras avanzadas. Busca aplicar las mejores prácticas como el uso de código re-utilizable, aplicándolos en proyectos propios y de otras personas.
+
+E1:Posee un conocimiento profundo de la sintaxis y las mejores prácticas para cada proyecto, ademas de usar patrones avanzados de diseño y estilo. Es capaz de proponer y aplicar optimizaciones en términos de legibilidad y rendimiento identificando áreas de mejora en el código.
+
+E2:Es un experto en la sintaxis del lenguaje, no solo ha dominando su uso, sino también aplica estándares, innova en patrones de diseño y creando nuevas convenciones que se adaptan a proyectos específicos. Puede liderar revisiones de código y guiar a otros en la aplicación de estándares de calidad en proyectos complejos.
+
 
